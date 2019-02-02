@@ -1,0 +1,67 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"@fortawesome/fontawesome-free-brands\"": 1,
+      "external \"@fortawesome/free-solid-svg-icons\"": 2,
+      "external \"next/document\"": 3,
+      "external \"@fortawesome/fontawesome-svg-core\"": 4,
+      "external \"@fortawesome/react-fontawesome\"": 5,
+      "multi ./pages/_document.jsx": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_document.jsx": 7,
+      "multi ./pages/index.jsx": 8,
+      "node_modules/ignore-loader/index.js!scss/components/oneScroll.scss": 9,
+      "node_modules/ignore-loader/index.js!scss/components/firstScrollHome.scss": 10,
+      "node_modules/ignore-loader/index.js!scss/components/secondScrollHome.scss": 11,
+      "node_modules/ignore-loader/index.js!scss/components/thirdScrollHome.scss": 12,
+      "node_modules/ignore-loader/index.js!scss/style.scss": 13,
+      "node_modules/ignore-loader/index.js!scss/pages/index.scss": 14,
+      "multi node_modules/next/dist/pages/_app.js": 15,
+      "node_modules/next/dist/pages/_app.js": 16,
+      "external \"next/app\"": 17,
+      "multi node_modules/next/dist/pages/_error.js": 18,
+      "node_modules/next/dist/pages/_error.js": 19,
+      "external \"next/error\"": 20,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx 19e2927d52c6db14cb0f70eb108ec3c6": 21
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_document.js": 0,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/index.js": 1,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_app.js": 2,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_error.js": 3
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}
