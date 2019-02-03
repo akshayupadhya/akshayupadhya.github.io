@@ -7,6 +7,7 @@
       "external \"next/document\"": 3,
       "external \"@fortawesome/fontawesome-svg-core\"": 4,
       "external \"@fortawesome/react-fontawesome\"": 5,
+<<<<<<< HEAD
       "external \"next-manifest/manifest\"": 6,
       "multi ./pages/_document.jsx": 7,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_document.jsx": 8,
@@ -24,6 +25,24 @@
       "node_modules/next/dist/pages/_error.js": 20,
       "external \"next/error\"": 21,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx 958dcc1fc45cb556e5cc6ddbbfbe74b8": 22
+=======
+      "multi ./pages/_document.jsx": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_document.jsx": 7,
+      "multi ./pages/index.jsx": 8,
+      "node_modules/ignore-loader/index.js!scss/components/oneScroll.scss": 9,
+      "node_modules/ignore-loader/index.js!scss/components/firstScrollHome.scss": 10,
+      "node_modules/ignore-loader/index.js!scss/components/secondScrollHome.scss": 11,
+      "node_modules/ignore-loader/index.js!scss/components/thirdScrollHome.scss": 12,
+      "node_modules/ignore-loader/index.js!scss/style.scss": 13,
+      "node_modules/ignore-loader/index.js!scss/pages/index.scss": 14,
+      "multi node_modules/next/dist/pages/_app.js": 15,
+      "node_modules/next/dist/pages/_app.js": 16,
+      "external \"next/app\"": 17,
+      "multi node_modules/next/dist/pages/_error.js": 18,
+      "node_modules/next/dist/pages/_error.js": 19,
+      "external \"next/error\"": 20,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx 19e2927d52c6db14cb0f70eb108ec3c6": 21
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
     },
     "usedIds": {
       "0": 0,
@@ -47,12 +66,17 @@
       "18": 18,
       "19": 19,
       "20": 20,
+<<<<<<< HEAD
       "21": 21,
       "22": 22
+=======
+      "21": 21
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
     }
   },
   "chunks": {
     "byName": {
+<<<<<<< HEAD
       "static/f~rK7YFTgVM6oc76IjRPw/pages/_document.js": 0,
       "static/f~rK7YFTgVM6oc76IjRPw/pages/index.js": 1,
       "static/f~rK7YFTgVM6oc76IjRPw/pages/_app.js": 2,
@@ -68,6 +92,19 @@
       5,
       6,
       7
+=======
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_document.js": 0,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/index.js": 1,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_app.js": 2,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_error.js": 3
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
     ]
   }
 }

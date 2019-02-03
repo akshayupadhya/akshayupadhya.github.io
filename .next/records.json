@@ -45,11 +45,19 @@
       }
     }
   ],
+<<<<<<< HEAD
   "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/firstScrollHome.scss": [
     {
       "modules": {
         "byIdentifier": {
           "node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/firstScrollHome.scss": 0,
+=======
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/thirdScrollHome.scss": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/thirdScrollHome.scss": 0,
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
           "node_modules/css-loader/lib/css-base.js": 1
         },
         "usedIds": {
@@ -91,11 +99,19 @@
       }
     }
   ],
+<<<<<<< HEAD
   "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/thirdScrollHome.scss": [
     {
       "modules": {
         "byIdentifier": {
           "node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/thirdScrollHome.scss": 0,
+=======
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/firstScrollHome.scss": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!scss/components/firstScrollHome.scss": 0,
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
           "node_modules/css-loader/lib/css-base.js": 1
         },
         "usedIds": {
@@ -380,7 +396,11 @@
       "node_modules/core-js/library/fn/is-iterable.js": 238,
       "node_modules/core-js/library/modules/core.is-iterable.js": 239,
       "node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js": 240,
+<<<<<<< HEAD
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx 2aedaf244f3dc8741327e9b0c2735f1a": 241
+=======
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx a228c9d92057158c6ad3841dd294f50e": 241
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
     },
     "usedIds": {
       "0": 0,
@@ -632,6 +652,7 @@
       "commons": 0,
       "static/runtime/webpack.js": 1,
       "static/runtime/main.js": 2,
+<<<<<<< HEAD
       "static/f~rK7YFTgVM6oc76IjRPw/pages/index.js": 3,
       "static/f~rK7YFTgVM6oc76IjRPw/pages/_app.js": 4,
       "static/f~rK7YFTgVM6oc76IjRPw/pages/_error.js": 5,
@@ -639,16 +660,29 @@
       "static/CKntcG4dvaePfoYn0T0NU/pages/index.js": 7,
       "static/CKntcG4dvaePfoYn0T0NU/pages/_app.js": 8,
       "static/CKntcG4dvaePfoYn0T0NU/pages/_error.js": 9
+=======
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/index.js": 3,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_app.js": 4,
+      "static/JMAbgL5f8cPAAxV6Srz7X/pages/_error.js": 5,
+      "styles": 6
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
       2,
+<<<<<<< HEAD
       6,
       7,
       8,
       9
+=======
+      3,
+      4,
+      5,
+      6
+>>>>>>> 8d3dee8e9b52df5153380c6983d7e12ca1780a94
     ]
   }
 }
