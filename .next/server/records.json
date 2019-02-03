@@ -1,0 +1,73 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"@fortawesome/fontawesome-free-brands\"": 1,
+      "external \"@fortawesome/free-solid-svg-icons\"": 2,
+      "external \"next/document\"": 3,
+      "external \"@fortawesome/fontawesome-svg-core\"": 4,
+      "external \"@fortawesome/react-fontawesome\"": 5,
+      "external \"next-manifest/manifest\"": 6,
+      "multi ./pages/_document.jsx": 7,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_document.jsx": 8,
+      "multi ./pages/index.jsx": 9,
+      "node_modules/ignore-loader/index.js!scss/components/oneScroll.scss": 10,
+      "node_modules/ignore-loader/index.js!scss/components/firstScrollHome.scss": 11,
+      "node_modules/ignore-loader/index.js!scss/components/secondScrollHome.scss": 12,
+      "node_modules/ignore-loader/index.js!scss/components/thirdScrollHome.scss": 13,
+      "node_modules/ignore-loader/index.js!scss/style.scss": 14,
+      "node_modules/ignore-loader/index.js!scss/pages/index.scss": 15,
+      "multi node_modules/next/dist/pages/_app.js": 16,
+      "node_modules/next/dist/pages/_app.js": 17,
+      "external \"next/app\"": 18,
+      "multi node_modules/next/dist/pages/_error.js": 19,
+      "node_modules/next/dist/pages/_error.js": 20,
+      "external \"next/error\"": 21,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx 958dcc1fc45cb556e5cc6ddbbfbe74b8": 22
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/f~rK7YFTgVM6oc76IjRPw/pages/_document.js": 0,
+      "static/f~rK7YFTgVM6oc76IjRPw/pages/index.js": 1,
+      "static/f~rK7YFTgVM6oc76IjRPw/pages/_app.js": 2,
+      "static/f~rK7YFTgVM6oc76IjRPw/pages/_error.js": 3,
+      "static/CKntcG4dvaePfoYn0T0NU/pages/_document.js": 4,
+      "static/CKntcG4dvaePfoYn0T0NU/pages/index.js": 5,
+      "static/CKntcG4dvaePfoYn0T0NU/pages/_app.js": 6,
+      "static/CKntcG4dvaePfoYn0T0NU/pages/_error.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
